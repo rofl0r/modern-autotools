@@ -1,0 +1,10 @@
+# whether to build foo1 or foo42
+FOO=foo@FOO_SOURCE@
+
+PREFIX=@prefix@
+BINDIR=@bindir@
+
+CFLAGS=@CFLAGS@
+CPPFLAGS=@CPPFLAGS@
+LDFLAGS=@LDFLAGS@
+
